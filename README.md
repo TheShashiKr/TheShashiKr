@@ -1,4 +1,4 @@
-👋 Hi, I’m @sk06072008
+👋 Hi, I’m @TheShashiKr
 👀 I’m interested in Android and Web Development
 🌱 I’m currently learning Android Development
 💞️ I’m looking to collaborate on Android
